@@ -62,6 +62,6 @@ Actualmente mantengo proyectos personales y colaborativos, trabajando con difere
 
 ### 📫 Contacto
 
-- GitHub: [Tu perfil]
-- LinkedIn: [Tu LinkedIn]
-- Email: [Tu correo]
+- GitHub: MILT0NJAN-bot
+- LinkedIn: 
+- Email: miltonjn3gmail.com
