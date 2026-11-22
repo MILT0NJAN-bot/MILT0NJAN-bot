@@ -1,16 +1,67 @@
-## Hi there 👋
+# ¡Hola! Soy Milton Jose Alcaraz Nicolas 👋
 
-<!--
-**MILT0NJAN-bot/MILT0NJAN-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador de Software
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería en Sistemas Computacionales interesado en el desarrollo de software, aplicaciones web y de escritorio, bases de datos y soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta desarrollar proyectos que resuelvan problemas reales, aprender nuevas tecnologías y mejorar continuamente mis habilidades.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+**Lenguajes**
+- Python
+- JavaScript
+- TypeScript
+- Java
+- C/C++
+- SQL
+
+**Desarrollo web**
+- React
+- Next.js
+- Node.js
+- Express
+- HTML
+- CSS
+- Tailwind CSS
+
+**Bases de datos**
+- MySQL
+- MariaDB
+- SQLite
+
+**Herramientas**
+- Git y GitHub
+- Visual Studio Code
+- DBeaver
+- Postman
+- Linux
+- VirtualBox
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| Andamios Alonso | Sistema de rentas e inventario de maquinaria ligera | Python, SQLite, CustomTkinter |
+| Mil Ventas | Sistema de punto de venta y administración comercial | En desarrollo |
+| PageAI | Plataforma SaaS para creación visual de sitios web | React, Next.js |
+| Epicentro | Plataforma web de noticias | Next.js, TypeScript, MariaDB |
+| MXFácil | Desarrollo de backend y servicios de una plataforma | Node.js, Express, MySQL |
+
+---
+
+### 📊 Actividad en GitHub
+
+Actualmente mantengo proyectos personales y colaborativos, trabajando con diferentes tecnologías y repositorios.
+
+---
+
+### 📫 Contacto
+
+- GitHub: [Tu perfil]
+- LinkedIn: [Tu LinkedIn]
+- Email: [Tu correo]
